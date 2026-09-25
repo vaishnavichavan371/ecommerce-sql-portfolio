@@ -1,0 +1,21 @@
+product_id,product_name,category,price
+1,Wireless Mouse,Electronics,799
+2,Mechanical Keyboard,Electronics,2499
+3,USB-C Hub,Electronics,1599
+4,Bluetooth Headphones,Electronics,2999
+5,Smart Watch,Electronics,4499
+6,Laptop Stand,Accessories,1299
+7,Backpack,Accessories,1899
+8,Phone Case,Accessories,499
+9,Water Bottle,Home,699
+10,Desk Lamp,Home,1199
+11,Notebook,Stationery,199
+12,Gel Pen Set,Stationery,249
+13,Office Chair,Furniture,8499
+14,Study Table,Furniture,6999
+15,Coffee Maker,Appliances,5499
+16,Electric Kettle,Appliances,1999
+17,Running Shoes,Fashion,3299
+18,Casual T-Shirt,Fashion,999
+19,Jeans,Fashion,2199
+20,Sunglasses,Fashion,1499
