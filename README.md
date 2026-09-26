@@ -130,5 +130,4 @@ The project uses SQL to analyze:
 7. Used SQL techniques to convert raw data into meaningful business insights.
 
 8. ## Project Screenshot
-
-![Top Customers by Revenue](./top_customers_revenue.png)
+![Top Customers by Revenue](./top_customers_revenue.png.png)
