@@ -131,4 +131,4 @@ The project uses SQL to analyze:
 
 8. ## Project Screenshot
 
-![Top Customers by Revenue](top_customers_revenue.png)
+![Top Customers by Revenue](./top_customers_revenue.png)
