@@ -128,3 +128,7 @@ The project uses SQL to analyze:
 5. Identified top-performing products, customers, and cities.
 6. Analyzed customer purchasing behavior and retention.
 7. Used SQL techniques to convert raw data into meaningful business insights.
+
+8. ## Project Screenshot
+
+![Top Customers by Revenue](top_customers_revenue.png)
